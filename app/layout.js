@@ -8,6 +8,8 @@ export const metadata = {
   description: 'Pagina prueba de next',
 }
 
+/* Aca comienza mi codigo */
+
 import { Header } from './components/Header'
 
 export default function RootLayout({ children }) {
